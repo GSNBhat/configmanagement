@@ -1,2 +1,1 @@
-# configmanagement
-test config server repo
+# quality-config-repo
